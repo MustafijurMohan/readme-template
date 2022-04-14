@@ -103,7 +103,7 @@ https://www.google.com
 
 ![Flower](https://images.pexels.com/photos/10414895/pexels-photo-10414895.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
-<img src='https://images.pexels.com/photos/1914307/pexels-photo-1914307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940' height='300' width='300' title='profile' />
+<img src='https://images.pexels.com/photos/1914307/pexels-photo-1914307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940' height='250' width='250' title='profile' />
 
 ### Emoji syntax
 
